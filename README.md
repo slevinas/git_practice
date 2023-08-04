@@ -1,4 +1,4 @@
-
+![My-Avatar](./images/avataaars.png)
 ## Usage
 Please follow these steps to get your application up and running.
  
